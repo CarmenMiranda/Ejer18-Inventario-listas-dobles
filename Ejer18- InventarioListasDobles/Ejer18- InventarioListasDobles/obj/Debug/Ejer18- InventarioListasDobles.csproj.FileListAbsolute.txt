@@ -1,0 +1,18 @@
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\bin\Debug\Ejer18- InventarioListasDobles.exe.config
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\bin\Debug\Ejer18- InventarioListasDobles.exe
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\bin\Debug\Ejer18- InventarioListasDobles.pdb
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18__InventarioListasDobles.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18__InventarioListasDobles.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.csproj.GenerateResource.Cache
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.exe
+E:\Estructura de datos\2da Parcial\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.pdb
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\bin\Debug\Ejer18- InventarioListasDobles.exe.config
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.exe
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.pdb
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\bin\Debug\Ejer18- InventarioListasDobles.exe
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\bin\Debug\Ejer18- InventarioListasDobles.pdb
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.csprojResolveAssemblyReference.cache
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18__InventarioListasDobles.Form1.resources
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18__InventarioListasDobles.Properties.Resources.resources
+C:\Users\andy_\Desktop\Ejer18- InventarioListasDobles\Ejer18- InventarioListasDobles\obj\Debug\Ejer18- InventarioListasDobles.csproj.GenerateResource.Cache
